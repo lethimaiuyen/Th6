@@ -1,0 +1,1810 @@
+{
+  "QUESTIONS": [
+    {
+      "level": "NB",
+      "q": "1 KB bằng bao nhiêu B?",
+      "options": [
+        "1024",
+        "100",
+        "1000",
+        "2048"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "NB",
+      "q": "1 MB bằng bao nhiêu KB?",
+      "options": [
+        "1024",
+        "100",
+        "1000",
+        "2048"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "NB",
+      "q": "1 GB bằng bao nhiêu MB?",
+      "options": [
+        "1024",
+        "100",
+        "1000",
+        "2048"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "NB",
+      "q": "1 TB bằng bao nhiêu GB?",
+      "options": [
+        "1024",
+        "100",
+        "1000",
+        "2048"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "NB",
+      "q": "Số 3 viết dưới dạng nhị phân là dãy bit nào?",
+      "options": [
+        "11",
+        "100",
+        "101",
+        "110"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "NB",
+      "q": "Số 5 viết dưới dạng nhị phân là dãy bit nào?",
+      "options": [
+        "101",
+        "110",
+        "111",
+        "1000"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "NB",
+      "q": "Số 7 viết dưới dạng nhị phân là dãy bit nào?",
+      "options": [
+        "111",
+        "1000",
+        "1001",
+        "1010"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "NB",
+      "q": "Số 10 viết dưới dạng nhị phân là dãy bit nào?",
+      "options": [
+        "1010",
+        "1011",
+        "1100",
+        "1101"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "NB",
+      "q": "Dãy bit 1001 có giá trị thập phân nào?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 1
+    },
+    {
+      "level": "NB",
+      "q": "Dãy bit 1100 có giá trị thập phân nào?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": 1
+    },
+    {
+      "level": "NB",
+      "q": "Dãy bit 1111 có giá trị thập phân nào?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "answer": 1
+    },
+    {
+      "level": "NB",
+      "q": "Dãy bit 10010 có giá trị thập phân nào?",
+      "options": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "answer": 1
+    },
+    {
+      "level": "TH",
+      "q": "2 GB đổi sang MB được bao nhiêu?",
+      "options": [
+        "2048",
+        "2000",
+        "1026",
+        "512"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "TH",
+      "q": "3 MB đổi sang KB được bao nhiêu?",
+      "options": [
+        "3072",
+        "3000",
+        "1027",
+        "341"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "TH",
+      "q": "4 KB đổi sang B được bao nhiêu?",
+      "options": [
+        "4096",
+        "4000",
+        "1028",
+        "256"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "TH",
+      "q": "5 GB đổi sang MB được bao nhiêu?",
+      "options": [
+        "5120",
+        "5000",
+        "1029",
+        "204"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "TH",
+      "q": "Khi đổi số 6 sang hệ nhị phân, kết quả nào đúng?",
+      "options": [
+        "111",
+        "110",
+        "101",
+        "1000"
+      ],
+      "answer": 1
+    },
+    {
+      "level": "TH",
+      "q": "Khi đổi số 11 sang hệ nhị phân, kết quả nào đúng?",
+      "options": [
+        "1100",
+        "1011",
+        "1010",
+        "1101"
+      ],
+      "answer": 1
+    },
+    {
+      "level": "TH",
+      "q": "Khi đổi số 14 sang hệ nhị phân, kết quả nào đúng?",
+      "options": [
+        "1111",
+        "1110",
+        "1101",
+        "10000"
+      ],
+      "answer": 1
+    },
+    {
+      "level": "TH",
+      "q": "Khi đổi số 17 sang hệ nhị phân, kết quả nào đúng?",
+      "options": [
+        "10010",
+        "10001",
+        "10000",
+        "10011"
+      ],
+      "answer": 1
+    },
+    {
+      "level": "TH",
+      "q": "Dãy bit 10011 biểu diễn số nào trong hệ thập phân?",
+      "options": [
+        "17",
+        "20",
+        "19",
+        "21"
+      ],
+      "answer": 2
+    },
+    {
+      "level": "TH",
+      "q": "Dãy bit 10101 biểu diễn số nào trong hệ thập phân?",
+      "options": [
+        "19",
+        "22",
+        "21",
+        "23"
+      ],
+      "answer": 2
+    },
+    {
+      "level": "TH",
+      "q": "Dãy bit 11001 biểu diễn số nào trong hệ thập phân?",
+      "options": [
+        "23",
+        "26",
+        "25",
+        "27"
+      ],
+      "answer": 2
+    },
+    {
+      "level": "TH",
+      "q": "Dãy bit 11011 biểu diễn số nào trong hệ thập phân?",
+      "options": [
+        "25",
+        "28",
+        "27",
+        "29"
+      ],
+      "answer": 2
+    },
+    {
+      "level": "VD",
+      "q": "Tệp 2 GB, mỗi USB chứa tối đa 700 MB. Cần ít nhất bao nhiêu USB để lưu đủ tệp (giả sử có thể chia tệp)?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "level": "VD",
+      "q": "Tệp 3 GB, mỗi USB chứa tối đa 700 MB. Cần ít nhất bao nhiêu USB để lưu đủ tệp (giả sử có thể chia tệp)?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer": 2
+    },
+    {
+      "level": "VD",
+      "q": "Tệp 4 GB, mỗi USB chứa tối đa 1000 MB. Cần ít nhất bao nhiêu USB để lưu đủ tệp (giả sử có thể chia tệp)?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer": 2
+    },
+    {
+      "level": "VD",
+      "q": "Tệp 5 GB, mỗi USB chứa tối đa 1500 MB. Cần ít nhất bao nhiêu USB để lưu đủ tệp (giả sử có thể chia tệp)?",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "answer": 2
+    },
+    {
+      "level": "VD",
+      "q": "Một mã số thập phân là 13. Muốn biểu diễn bằng dãy bit, chọn đáp án đúng.",
+      "options": [
+        "1111",
+        "1101",
+        "1100",
+        "1110"
+      ],
+      "answer": 1
+    },
+    {
+      "level": "VD",
+      "q": "Một mã số thập phân là 18. Muốn biểu diễn bằng dãy bit, chọn đáp án đúng.",
+      "options": [
+        "10100",
+        "10010",
+        "10001",
+        "10011"
+      ],
+      "answer": 1
+    },
+    {
+      "level": "VD",
+      "q": "Một mã số thập phân là 23. Muốn biểu diễn bằng dãy bit, chọn đáp án đúng.",
+      "options": [
+        "11001",
+        "10111",
+        "10110",
+        "11000"
+      ],
+      "answer": 1
+    },
+    {
+      "level": "VD",
+      "q": "Một mã số thập phân là 29. Muốn biểu diễn bằng dãy bit, chọn đáp án đúng.",
+      "options": [
+        "11111",
+        "11101",
+        "11100",
+        "11110"
+      ],
+      "answer": 1
+    },
+    {
+      "level": "VD",
+      "q": "Một tệp 3 MB và một tệp 2048 KB có tổng dung lượng bao nhiêu MB?",
+      "options": [
+        "5",
+        "2051",
+        "1",
+        "6"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "VD",
+      "q": "Một tệp 5 MB và một tệp 3072 KB có tổng dung lượng bao nhiêu MB?",
+      "options": [
+        "8",
+        "3077",
+        "2",
+        "9"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "VD",
+      "q": "Một tệp 7 MB và một tệp 4096 KB có tổng dung lượng bao nhiêu MB?",
+      "options": [
+        "11",
+        "4103",
+        "3",
+        "12"
+      ],
+      "answer": 0
+    },
+    {
+      "level": "VD",
+      "q": "Một tệp 9 MB và một tệp 6144 KB có tổng dung lượng bao nhiêu MB?",
+      "options": [
+        "15",
+        "6153",
+        "3",
+        "16"
+      ],
+      "answer": 0
+    }
+  ],
+  "SHORT": [
+    {
+      "q": "Đổi 2 GB sang MB. Chỉ nhập số.",
+      "answers": [
+        "2048"
+      ],
+      "ex": "2 × 1024 = 2048 MB."
+    },
+    {
+      "q": "Đổi 3,5 GB sang MB. Chỉ nhập số.",
+      "answers": [
+        "3584"
+      ],
+      "ex": "3.5 × 1024 = 3584 MB."
+    },
+    {
+      "q": "Đổi 4 MB sang KB. Chỉ nhập số.",
+      "answers": [
+        "4096"
+      ],
+      "ex": "4 × 1024 = 4096 KB."
+    },
+    {
+      "q": "Đổi 6 KB sang B. Chỉ nhập số.",
+      "answers": [
+        "6144"
+      ],
+      "ex": "6 × 1024 = 6144 B."
+    },
+    {
+      "q": "Đổi 1,5 GB sang MB. Chỉ nhập số.",
+      "answers": [
+        "1536"
+      ],
+      "ex": "1.5 × 1024 = 1536 MB."
+    },
+    {
+      "q": "Đổi 2,5 MB sang KB. Chỉ nhập số.",
+      "answers": [
+        "2560"
+      ],
+      "ex": "2.5 × 1024 = 2560 KB."
+    },
+    {
+      "q": "Đổi số thập phân 13 sang dãy bit (không thêm chữ).",
+      "answers": [
+        "1101"
+      ],
+      "ex": "13 = 1101 (hệ nhị phân)."
+    },
+    {
+      "q": "Đổi số thập phân 18 sang dãy bit (không thêm chữ).",
+      "answers": [
+        "10010"
+      ],
+      "ex": "18 = 10010 (hệ nhị phân)."
+    },
+    {
+      "q": "Đổi số thập phân 7 sang dãy bit (không thêm chữ).",
+      "answers": [
+        "111"
+      ],
+      "ex": "7 = 111 (hệ nhị phân)."
+    },
+    {
+      "q": "Đổi số thập phân 10 sang dãy bit (không thêm chữ).",
+      "answers": [
+        "1010"
+      ],
+      "ex": "10 = 1010 (hệ nhị phân)."
+    },
+    {
+      "q": "Đổi số thập phân 15 sang dãy bit (không thêm chữ).",
+      "answers": [
+        "1111"
+      ],
+      "ex": "15 = 1111 (hệ nhị phân)."
+    },
+    {
+      "q": "Đổi số thập phân 23 sang dãy bit (không thêm chữ).",
+      "answers": [
+        "10111"
+      ],
+      "ex": "23 = 10111 (hệ nhị phân)."
+    },
+    {
+      "q": "Đổi dãy bit 101 sang số thập phân.",
+      "answers": [
+        "5"
+      ],
+      "ex": "101 = 5."
+    },
+    {
+      "q": "Đổi dãy bit 1010 sang số thập phân.",
+      "answers": [
+        "10"
+      ],
+      "ex": "1010 = 10."
+    },
+    {
+      "q": "Đổi dãy bit 1100 sang số thập phân.",
+      "answers": [
+        "12"
+      ],
+      "ex": "1100 = 12."
+    },
+    {
+      "q": "Đổi dãy bit 10001 sang số thập phân.",
+      "answers": [
+        "17"
+      ],
+      "ex": "10001 = 17."
+    },
+    {
+      "q": "Một tệp 3,5 GB; USB dung lượng 700 MB. Cần ít nhất bao nhiêu USB? (Giả sử chia tệp được.)",
+      "answers": [
+        "6"
+      ],
+      "ex": "3.5 × 1024 ÷ 700, làm tròn lên = 6."
+    },
+    {
+      "q": "Một tệp 2 GB; USB dung lượng 700 MB. Cần ít nhất bao nhiêu USB? (Giả sử chia tệp được.)",
+      "answers": [
+        "3"
+      ],
+      "ex": "2 × 1024 ÷ 700, làm tròn lên = 3."
+    }
+  ],
+  "NEW_SHORT": [
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 1,5 GB sang MB (chỉ nhập số).",
+      "answers": [
+        "1536"
+      ],
+      "ex": "1.5 × 1024 = 1536 MB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 2 GB sang MB (chỉ nhập số).",
+      "answers": [
+        "2048"
+      ],
+      "ex": "2 × 1024 = 2048 MB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 2,5 GB sang MB (chỉ nhập số).",
+      "answers": [
+        "2560"
+      ],
+      "ex": "2.5 × 1024 = 2560 MB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 3 GB sang MB (chỉ nhập số).",
+      "answers": [
+        "3072"
+      ],
+      "ex": "3 × 1024 = 3072 MB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 3,5 GB sang MB (chỉ nhập số).",
+      "answers": [
+        "3584"
+      ],
+      "ex": "3.5 × 1024 = 3584 MB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 4 GB sang MB (chỉ nhập số).",
+      "answers": [
+        "4096"
+      ],
+      "ex": "4 × 1024 = 4096 MB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 4,5 GB sang MB (chỉ nhập số).",
+      "answers": [
+        "4608"
+      ],
+      "ex": "4.5 × 1024 = 4608 MB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 5 GB sang MB (chỉ nhập số).",
+      "answers": [
+        "5120"
+      ],
+      "ex": "5 × 1024 = 5120 MB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 6 GB sang MB (chỉ nhập số).",
+      "answers": [
+        "6144"
+      ],
+      "ex": "6 × 1024 = 6144 MB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 7,5 GB sang MB (chỉ nhập số).",
+      "answers": [
+        "7680"
+      ],
+      "ex": "7.5 × 1024 = 7680 MB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 2 MB sang KB (chỉ nhập số).",
+      "answers": [
+        "2048"
+      ],
+      "ex": "2 × 1024 = 2048 KB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 3 MB sang KB (chỉ nhập số).",
+      "answers": [
+        "3072"
+      ],
+      "ex": "3 × 1024 = 3072 KB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 4 MB sang KB (chỉ nhập số).",
+      "answers": [
+        "4096"
+      ],
+      "ex": "4 × 1024 = 4096 KB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 5 MB sang KB (chỉ nhập số).",
+      "answers": [
+        "5120"
+      ],
+      "ex": "5 × 1024 = 5120 KB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 6 MB sang KB (chỉ nhập số).",
+      "answers": [
+        "6144"
+      ],
+      "ex": "6 × 1024 = 6144 KB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 8 MB sang KB (chỉ nhập số).",
+      "answers": [
+        "8192"
+      ],
+      "ex": "8 × 1024 = 8192 KB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 10 MB sang KB (chỉ nhập số).",
+      "answers": [
+        "10240"
+      ],
+      "ex": "10 × 1024 = 10240 KB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 12 MB sang KB (chỉ nhập số).",
+      "answers": [
+        "12288"
+      ],
+      "ex": "12 × 1024 = 12288 KB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 2048 MB sang GB (chỉ nhập số).",
+      "answers": [
+        "2"
+      ],
+      "ex": "2048 ÷ 1024 = 2 GB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 3072 MB sang GB (chỉ nhập số).",
+      "answers": [
+        "3"
+      ],
+      "ex": "3072 ÷ 1024 = 3 GB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 4096 MB sang GB (chỉ nhập số).",
+      "answers": [
+        "4"
+      ],
+      "ex": "4096 ÷ 1024 = 4 GB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 5120 MB sang GB (chỉ nhập số).",
+      "answers": [
+        "5"
+      ],
+      "ex": "5120 ÷ 1024 = 5 GB."
+    },
+    {
+      "cat": "Đổi dung lượng",
+      "q": "Đổi 6144 MB sang GB (chỉ nhập số).",
+      "answers": [
+        "6"
+      ],
+      "ex": "6144 ÷ 1024 = 6 GB."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 1 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "0001"
+      ],
+      "ex": "1 = 0001 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 2 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "0010"
+      ],
+      "ex": "2 = 0010 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 3 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "0011"
+      ],
+      "ex": "3 = 0011 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 4 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "0100"
+      ],
+      "ex": "4 = 0100 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 5 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "0101"
+      ],
+      "ex": "5 = 0101 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 6 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "0110"
+      ],
+      "ex": "6 = 0110 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 7 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "0111"
+      ],
+      "ex": "7 = 0111 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 8 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "1000"
+      ],
+      "ex": "8 = 1000 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 9 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "1001"
+      ],
+      "ex": "9 = 1001 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 10 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "1010"
+      ],
+      "ex": "10 = 1010 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 11 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "1011"
+      ],
+      "ex": "11 = 1011 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 12 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "1100"
+      ],
+      "ex": "12 = 1100 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 13 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "1101"
+      ],
+      "ex": "13 = 1101 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 14 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "1110"
+      ],
+      "ex": "14 = 1110 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 15 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "1111"
+      ],
+      "ex": "15 = 1111 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 16 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "10000"
+      ],
+      "ex": "16 = 10000 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 17 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "10001"
+      ],
+      "ex": "17 = 10001 (hệ nhị phân)."
+    },
+    {
+      "cat": "Thập phân → dãy bit",
+      "q": "Viết số thập phân 18 dưới dạng dãy bit 4 hoặc 5 chữ số (thêm số 0 bên trái nếu cần).",
+      "answers": [
+        "10010"
+      ],
+      "ex": "18 = 10010 (hệ nhị phân)."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 0001 biểu diễn số thập phân nào?",
+      "answers": [
+        "1"
+      ],
+      "ex": "0001 = 1."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 0010 biểu diễn số thập phân nào?",
+      "answers": [
+        "2"
+      ],
+      "ex": "0010 = 2."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 0011 biểu diễn số thập phân nào?",
+      "answers": [
+        "3"
+      ],
+      "ex": "0011 = 3."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 0100 biểu diễn số thập phân nào?",
+      "answers": [
+        "4"
+      ],
+      "ex": "0100 = 4."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 0101 biểu diễn số thập phân nào?",
+      "answers": [
+        "5"
+      ],
+      "ex": "0101 = 5."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 0110 biểu diễn số thập phân nào?",
+      "answers": [
+        "6"
+      ],
+      "ex": "0110 = 6."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 0111 biểu diễn số thập phân nào?",
+      "answers": [
+        "7"
+      ],
+      "ex": "0111 = 7."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 1000 biểu diễn số thập phân nào?",
+      "answers": [
+        "8"
+      ],
+      "ex": "1000 = 8."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 1001 biểu diễn số thập phân nào?",
+      "answers": [
+        "9"
+      ],
+      "ex": "1001 = 9."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 1010 biểu diễn số thập phân nào?",
+      "answers": [
+        "10"
+      ],
+      "ex": "1010 = 10."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 1011 biểu diễn số thập phân nào?",
+      "answers": [
+        "11"
+      ],
+      "ex": "1011 = 11."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 1100 biểu diễn số thập phân nào?",
+      "answers": [
+        "12"
+      ],
+      "ex": "1100 = 12."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 1101 biểu diễn số thập phân nào?",
+      "answers": [
+        "13"
+      ],
+      "ex": "1101 = 13."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 1110 biểu diễn số thập phân nào?",
+      "answers": [
+        "14"
+      ],
+      "ex": "1110 = 14."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 1111 biểu diễn số thập phân nào?",
+      "answers": [
+        "15"
+      ],
+      "ex": "1111 = 15."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 10000 biểu diễn số thập phân nào?",
+      "answers": [
+        "16"
+      ],
+      "ex": "10000 = 16."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 10001 biểu diễn số thập phân nào?",
+      "answers": [
+        "17"
+      ],
+      "ex": "10001 = 17."
+    },
+    {
+      "cat": "Dãy bit → thập phân",
+      "q": "Dãy bit 10010 biểu diễn số thập phân nào?",
+      "answers": [
+        "18"
+      ],
+      "ex": "10010 = 18."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Một bộ dữ liệu có dung lượng 3,5 GB. Mỗi USB chứa tối đa 700 MB. Cần ít nhất bao nhiêu USB để lưu hết dữ liệu? (Giả sử có thể chia dữ liệu thành nhiều phần.)",
+      "answers": [
+        "6"
+      ],
+      "ex": "3.5 × 1024 = 3584 MB; 3584 ÷ 700 = 5.12; làm tròn lên: 6 USB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Một bộ dữ liệu có dung lượng 2 GB. Mỗi USB chứa tối đa 700 MB. Cần ít nhất bao nhiêu USB để lưu hết dữ liệu? (Giả sử có thể chia dữ liệu thành nhiều phần.)",
+      "answers": [
+        "3"
+      ],
+      "ex": "2 × 1024 = 2048 MB; 2048 ÷ 700 = 2.93; làm tròn lên: 3 USB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Một bộ dữ liệu có dung lượng 4 GB. Mỗi USB chứa tối đa 700 MB. Cần ít nhất bao nhiêu USB để lưu hết dữ liệu? (Giả sử có thể chia dữ liệu thành nhiều phần.)",
+      "answers": [
+        "6"
+      ],
+      "ex": "4 × 1024 = 4096 MB; 4096 ÷ 700 = 5.85; làm tròn lên: 6 USB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Một bộ dữ liệu có dung lượng 1,5 GB. Mỗi USB chứa tối đa 500 MB. Cần ít nhất bao nhiêu USB để lưu hết dữ liệu? (Giả sử có thể chia dữ liệu thành nhiều phần.)",
+      "answers": [
+        "4"
+      ],
+      "ex": "1.5 × 1024 = 1536 MB; 1536 ÷ 500 = 3.07; làm tròn lên: 4 USB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Một bộ dữ liệu có dung lượng 2,5 GB. Mỗi USB chứa tối đa 800 MB. Cần ít nhất bao nhiêu USB để lưu hết dữ liệu? (Giả sử có thể chia dữ liệu thành nhiều phần.)",
+      "answers": [
+        "4"
+      ],
+      "ex": "2.5 × 1024 = 2560 MB; 2560 ÷ 800 = 3.20; làm tròn lên: 4 USB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Một bộ dữ liệu có dung lượng 5 GB. Mỗi USB chứa tối đa 1024 MB. Cần ít nhất bao nhiêu USB để lưu hết dữ liệu? (Giả sử có thể chia dữ liệu thành nhiều phần.)",
+      "answers": [
+        "5"
+      ],
+      "ex": "5 × 1024 = 5120 MB; 5120 ÷ 1024 = 5.00; làm tròn lên: 5 USB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Một bộ dữ liệu có dung lượng 4,5 GB. Mỗi USB chứa tối đa 700 MB. Cần ít nhất bao nhiêu USB để lưu hết dữ liệu? (Giả sử có thể chia dữ liệu thành nhiều phần.)",
+      "answers": [
+        "7"
+      ],
+      "ex": "4.5 × 1024 = 4608 MB; 4608 ÷ 700 = 6.58; làm tròn lên: 7 USB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Một bộ dữ liệu có dung lượng 3 GB. Mỗi USB chứa tối đa 500 MB. Cần ít nhất bao nhiêu USB để lưu hết dữ liệu? (Giả sử có thể chia dữ liệu thành nhiều phần.)",
+      "answers": [
+        "7"
+      ],
+      "ex": "3 × 1024 = 3072 MB; 3072 ÷ 500 = 6.14; làm tròn lên: 7 USB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Một bộ dữ liệu có dung lượng 6 GB. Mỗi USB chứa tối đa 800 MB. Cần ít nhất bao nhiêu USB để lưu hết dữ liệu? (Giả sử có thể chia dữ liệu thành nhiều phần.)",
+      "answers": [
+        "8"
+      ],
+      "ex": "6 × 1024 = 6144 MB; 6144 ÷ 800 = 7.68; làm tròn lên: 8 USB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Một bộ dữ liệu có dung lượng 1,5 GB. Mỗi USB chứa tối đa 700 MB. Cần ít nhất bao nhiêu USB để lưu hết dữ liệu? (Giả sử có thể chia dữ liệu thành nhiều phần.)",
+      "answers": [
+        "3"
+      ],
+      "ex": "1.5 × 1024 = 1536 MB; 1536 ÷ 700 = 2.19; làm tròn lên: 3 USB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Một bộ dữ liệu có dung lượng 2,5 GB. Mỗi USB chứa tối đa 700 MB. Cần ít nhất bao nhiêu USB để lưu hết dữ liệu? (Giả sử có thể chia dữ liệu thành nhiều phần.)",
+      "answers": [
+        "4"
+      ],
+      "ex": "2.5 × 1024 = 2560 MB; 2560 ÷ 700 = 3.66; làm tròn lên: 4 USB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Một bộ dữ liệu có dung lượng 5,5 GB. Mỗi USB chứa tối đa 700 MB. Cần ít nhất bao nhiêu USB để lưu hết dữ liệu? (Giả sử có thể chia dữ liệu thành nhiều phần.)",
+      "answers": [
+        "9"
+      ],
+      "ex": "5.5 × 1024 = 5632 MB; 5632 ÷ 700 = 8.05; làm tròn lên: 9 USB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 2 GB lưu được tối đa bao nhiêu bài hát, mỗi bài 4 MB? (Chỉ nhập số.)",
+      "answers": [
+        "512"
+      ],
+      "ex": "2 × 1024 ÷ 4 = 512 bài hát. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 4 GB lưu được tối đa bao nhiêu bài hát, mỗi bài 8 MB? (Chỉ nhập số.)",
+      "answers": [
+        "512"
+      ],
+      "ex": "4 × 1024 ÷ 8 = 512 bài hát. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 8 GB lưu được tối đa bao nhiêu bài hát, mỗi bài 4 MB? (Chỉ nhập số.)",
+      "answers": [
+        "2048"
+      ],
+      "ex": "8 × 1024 ÷ 4 = 2048 bài hát. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 8 GB lưu được tối đa bao nhiêu bài hát, mỗi bài 5 MB? (Chỉ nhập số.)",
+      "answers": [
+        "1638"
+      ],
+      "ex": "8 × 1024 ÷ 5 = 1638 bài hát. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 16 GB lưu được tối đa bao nhiêu bài hát, mỗi bài 8 MB? (Chỉ nhập số.)",
+      "answers": [
+        "2048"
+      ],
+      "ex": "16 × 1024 ÷ 8 = 2048 bài hát. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 4 GB lưu được tối đa bao nhiêu bài hát, mỗi bài 6 MB? (Chỉ nhập số.)",
+      "answers": [
+        "682"
+      ],
+      "ex": "4 × 1024 ÷ 6 = 682 bài hát. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 2 GB lưu được tối đa bao nhiêu bức ảnh, mỗi ảnh 5 MB? (Chỉ nhập số.)",
+      "answers": [
+        "409"
+      ],
+      "ex": "2 × 1024 ÷ 5 = 409 ảnh. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 4 GB lưu được tối đa bao nhiêu bức ảnh, mỗi ảnh 4 MB? (Chỉ nhập số.)",
+      "answers": [
+        "1024"
+      ],
+      "ex": "4 × 1024 ÷ 4 = 1024 ảnh. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 8 GB lưu được tối đa bao nhiêu bức ảnh, mỗi ảnh 8 MB? (Chỉ nhập số.)",
+      "answers": [
+        "1024"
+      ],
+      "ex": "8 × 1024 ÷ 8 = 1024 ảnh. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 16 GB lưu được tối đa bao nhiêu bức ảnh, mỗi ảnh 16 MB? (Chỉ nhập số.)",
+      "answers": [
+        "1024"
+      ],
+      "ex": "16 × 1024 ÷ 16 = 1024 ảnh. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 4 GB lưu được tối đa bao nhiêu video, mỗi video 512 MB? (Chỉ nhập số.)",
+      "answers": [
+        "8"
+      ],
+      "ex": "Lấy phần nguyên của 4 × 1024 ÷ 512 = 8 video."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 8 GB lưu được tối đa bao nhiêu video, mỗi video 700 MB? (Chỉ nhập số.)",
+      "answers": [
+        "11"
+      ],
+      "ex": "Lấy phần nguyên của 8 × 1024 ÷ 700 = 11 video."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 16 GB lưu được tối đa bao nhiêu video, mỗi video 1024 MB? (Chỉ nhập số.)",
+      "answers": [
+        "16"
+      ],
+      "ex": "Lấy phần nguyên của 16 × 1024 ÷ 1024 = 16 video."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 8 GB đã lưu 3072 MB dữ liệu. Còn trống bao nhiêu MB? (Chỉ nhập số.)",
+      "answers": [
+        "5120"
+      ],
+      "ex": "8 × 1024 − 3072 = 5120 MB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 4 GB đã lưu 1536 MB dữ liệu. Còn trống bao nhiêu MB? (Chỉ nhập số.)",
+      "answers": [
+        "2560"
+      ],
+      "ex": "4 × 1024 − 1536 = 2560 MB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 16 GB đã lưu 5120 MB dữ liệu. Còn trống bao nhiêu MB? (Chỉ nhập số.)",
+      "answers": [
+        "11264"
+      ],
+      "ex": "16 × 1024 − 5120 = 11264 MB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 8 GB đã lưu 6144 MB dữ liệu. Còn trống bao nhiêu MB? (Chỉ nhập số.)",
+      "answers": [
+        "2048"
+      ],
+      "ex": "8 × 1024 − 6144 = 2048 MB."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 4 GB đã dùng 1024 MB. Có thể lưu thêm tối đa bao nhiêu bài hát, mỗi bài 5 MB? (Chỉ nhập số.)",
+      "answers": [
+        "614"
+      ],
+      "ex": "Phần nguyên của (4 × 1024 − 1024) ÷ 5 = 614 bài."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 8 GB đã dùng 2048 MB. Có thể lưu thêm tối đa bao nhiêu bài hát, mỗi bài 4 MB? (Chỉ nhập số.)",
+      "answers": [
+        "1536"
+      ],
+      "ex": "Phần nguyên của (8 × 1024 − 2048) ÷ 4 = 1536 bài."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 8 GB đã dùng 3584 MB. Có thể lưu thêm tối đa bao nhiêu bài hát, mỗi bài 8 MB? (Chỉ nhập số.)",
+      "answers": [
+        "576"
+      ],
+      "ex": "Phần nguyên của (8 × 1024 − 3584) ÷ 8 = 576 bài."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "USB 16 GB đã dùng 4096 MB. Có thể lưu thêm tối đa bao nhiêu bài hát, mỗi bài 6 MB? (Chỉ nhập số.)",
+      "answers": [
+        "2048"
+      ],
+      "ex": "Phần nguyên của (16 × 1024 − 4096) ÷ 6 = 2048 bài."
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Cần lưu 300 bài hát, mỗi bài 5 MB. Mỗi USB 1 GB. Cần ít nhất bao nhiêu USB? (Không chia nhỏ bài hát.) (Chỉ nhập số.)",
+      "answers": [
+        "2"
+      ],
+      "ex": "Tổng 300 × 5 = 1500 MB; mỗi USB chứa 204 bài; cần 2 USB. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Cần lưu 1200 bài hát, mỗi bài 4 MB. Mỗi USB 2 GB. Cần ít nhất bao nhiêu USB? (Không chia nhỏ bài hát.) (Chỉ nhập số.)",
+      "answers": [
+        "3"
+      ],
+      "ex": "Tổng 1200 × 4 = 4800 MB; mỗi USB chứa 512 bài; cần 3 USB. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Cần lưu 500 bài hát, mỗi bài 8 MB. Mỗi USB 2 GB. Cần ít nhất bao nhiêu USB? (Không chia nhỏ bài hát.) (Chỉ nhập số.)",
+      "answers": [
+        "2"
+      ],
+      "ex": "Tổng 500 × 8 = 4000 MB; mỗi USB chứa 256 bài; cần 2 USB. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Cần lưu 800 bài hát, mỗi bài 6 MB. Mỗi USB 4 GB. Cần ít nhất bao nhiêu USB? (Không chia nhỏ bài hát.) (Chỉ nhập số.)",
+      "answers": [
+        "2"
+      ],
+      "ex": "Tổng 800 × 6 = 4800 MB; mỗi USB chứa 682 bài; cần 2 USB. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Cần lưu 1000 ảnh, mỗi ảnh 5 MB. Mỗi USB 2 GB. Cần ít nhất bao nhiêu USB? (Không chia nhỏ ảnh.) (Chỉ nhập số.)",
+      "answers": [
+        "3"
+      ],
+      "ex": "Mỗi USB chứa tối đa 409 ảnh; cần 3 USB. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Cần lưu 750 ảnh, mỗi ảnh 8 MB. Mỗi USB 4 GB. Cần ít nhất bao nhiêu USB? (Không chia nhỏ ảnh.) (Chỉ nhập số.)",
+      "answers": [
+        "2"
+      ],
+      "ex": "Mỗi USB chứa tối đa 512 ảnh; cần 2 USB. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    },
+    {
+      "cat": "Bài toán USB",
+      "q": "Cần lưu 1200 ảnh, mỗi ảnh 6 MB. Mỗi USB 4 GB. Cần ít nhất bao nhiêu USB? (Không chia nhỏ ảnh.) (Chỉ nhập số.)",
+      "answers": [
+        "2"
+      ],
+      "ex": "Mỗi USB chứa tối đa 682 ảnh; cần 2 USB. (Lấy phần nguyên vì không lưu được một phần tệp.)"
+    }
+  ],
+  "ENCODING_SHORT": [
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 5 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "00"
+      ],
+      "ex": "Dãy có 6 số. 6 số: chọn nửa trái (0); 3 số: chọn nửa trái (0). Ghép bit theo thứ tự được 00.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 5 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 3 (chỉ nhập dãy bit).",
+      "answers": [
+        "10"
+      ],
+      "ex": "Dãy có 6 số. 6 số: chọn nửa phải (1); 3 số: chọn nửa trái (0). Ghép bit theo thứ tự được 10.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 5 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 5 (chỉ nhập dãy bit).",
+      "answers": [
+        "111"
+      ],
+      "ex": "Dãy có 6 số. 6 số: chọn nửa phải (1); 3 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 111.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 6 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "00"
+      ],
+      "ex": "Dãy có 7 số. 7 số: chọn nửa trái (0); 3 số: chọn nửa trái (0). Ghép bit theo thứ tự được 00.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 6 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 3 (chỉ nhập dãy bit).",
+      "answers": [
+        "100"
+      ],
+      "ex": "Dãy có 7 số. 7 số: chọn nửa phải (1); 4 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 100.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 6 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 6 (chỉ nhập dãy bit).",
+      "answers": [
+        "111"
+      ],
+      "ex": "Dãy có 7 số. 7 số: chọn nửa phải (1); 4 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 111.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 7 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "000"
+      ],
+      "ex": "Dãy có 8 số. 8 số: chọn nửa trái (0); 4 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 7 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 4 (chỉ nhập dãy bit).",
+      "answers": [
+        "100"
+      ],
+      "ex": "Dãy có 8 số. 8 số: chọn nửa phải (1); 4 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 100.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 7 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 7 (chỉ nhập dãy bit).",
+      "answers": [
+        "111"
+      ],
+      "ex": "Dãy có 8 số. 8 số: chọn nửa phải (1); 4 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 111.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 8 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "000"
+      ],
+      "ex": "Dãy có 9 số. 9 số: chọn nửa trái (0); 4 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 8 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 4 (chỉ nhập dãy bit).",
+      "answers": [
+        "100"
+      ],
+      "ex": "Dãy có 9 số. 9 số: chọn nửa phải (1); 5 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 100.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 8 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 8 (chỉ nhập dãy bit).",
+      "answers": [
+        "1111"
+      ],
+      "ex": "Dãy có 9 số. 9 số: chọn nửa phải (1); 5 số: chọn nửa phải (1); 3 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 1111.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 9 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "000"
+      ],
+      "ex": "Dãy có 10 số. 10 số: chọn nửa trái (0); 5 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 9 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 5 (chỉ nhập dãy bit).",
+      "answers": [
+        "100"
+      ],
+      "ex": "Dãy có 10 số. 10 số: chọn nửa phải (1); 5 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 100.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 9 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 9 (chỉ nhập dãy bit).",
+      "answers": [
+        "1111"
+      ],
+      "ex": "Dãy có 10 số. 10 số: chọn nửa phải (1); 5 số: chọn nửa phải (1); 3 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 1111.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 10 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "000"
+      ],
+      "ex": "Dãy có 11 số. 11 số: chọn nửa trái (0); 5 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 10 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 5 (chỉ nhập dãy bit).",
+      "answers": [
+        "100"
+      ],
+      "ex": "Dãy có 11 số. 11 số: chọn nửa phải (1); 6 số: chọn nửa trái (0); 3 số: chọn nửa trái (0). Ghép bit theo thứ tự được 100.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 10 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 10 (chỉ nhập dãy bit).",
+      "answers": [
+        "1111"
+      ],
+      "ex": "Dãy có 11 số. 11 số: chọn nửa phải (1); 6 số: chọn nửa phải (1); 3 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 1111.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 11 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "000"
+      ],
+      "ex": "Dãy có 12 số. 12 số: chọn nửa trái (0); 6 số: chọn nửa trái (0); 3 số: chọn nửa trái (0). Ghép bit theo thứ tự được 000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 11 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 6 (chỉ nhập dãy bit).",
+      "answers": [
+        "100"
+      ],
+      "ex": "Dãy có 12 số. 12 số: chọn nửa phải (1); 6 số: chọn nửa trái (0); 3 số: chọn nửa trái (0). Ghép bit theo thứ tự được 100.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 11 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 11 (chỉ nhập dãy bit).",
+      "answers": [
+        "1111"
+      ],
+      "ex": "Dãy có 12 số. 12 số: chọn nửa phải (1); 6 số: chọn nửa phải (1); 3 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 1111.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 12 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "000"
+      ],
+      "ex": "Dãy có 13 số. 13 số: chọn nửa trái (0); 6 số: chọn nửa trái (0); 3 số: chọn nửa trái (0). Ghép bit theo thứ tự được 000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 12 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 6 (chỉ nhập dãy bit).",
+      "answers": [
+        "100"
+      ],
+      "ex": "Dãy có 13 số. 13 số: chọn nửa phải (1); 7 số: chọn nửa trái (0); 3 số: chọn nửa trái (0). Ghép bit theo thứ tự được 100.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 12 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 12 (chỉ nhập dãy bit).",
+      "answers": [
+        "1111"
+      ],
+      "ex": "Dãy có 13 số. 13 số: chọn nửa phải (1); 7 số: chọn nửa phải (1); 4 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 1111.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 13 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "000"
+      ],
+      "ex": "Dãy có 14 số. 14 số: chọn nửa trái (0); 7 số: chọn nửa trái (0); 3 số: chọn nửa trái (0). Ghép bit theo thứ tự được 000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 13 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 7 (chỉ nhập dãy bit).",
+      "answers": [
+        "100"
+      ],
+      "ex": "Dãy có 14 số. 14 số: chọn nửa phải (1); 7 số: chọn nửa trái (0); 3 số: chọn nửa trái (0). Ghép bit theo thứ tự được 100.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 13 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 13 (chỉ nhập dãy bit).",
+      "answers": [
+        "1111"
+      ],
+      "ex": "Dãy có 14 số. 14 số: chọn nửa phải (1); 7 số: chọn nửa phải (1); 4 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 1111.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 14 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "000"
+      ],
+      "ex": "Dãy có 15 số. 15 số: chọn nửa trái (0); 7 số: chọn nửa trái (0); 3 số: chọn nửa trái (0). Ghép bit theo thứ tự được 000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 14 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 7 (chỉ nhập dãy bit).",
+      "answers": [
+        "1000"
+      ],
+      "ex": "Dãy có 15 số. 15 số: chọn nửa phải (1); 8 số: chọn nửa trái (0); 4 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 1000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 14 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 14 (chỉ nhập dãy bit).",
+      "answers": [
+        "1111"
+      ],
+      "ex": "Dãy có 15 số. 15 số: chọn nửa phải (1); 8 số: chọn nửa phải (1); 4 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 1111.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 15 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "0000"
+      ],
+      "ex": "Dãy có 16 số. 16 số: chọn nửa trái (0); 8 số: chọn nửa trái (0); 4 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 0000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 15 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 8 (chỉ nhập dãy bit).",
+      "answers": [
+        "1000"
+      ],
+      "ex": "Dãy có 16 số. 16 số: chọn nửa phải (1); 8 số: chọn nửa trái (0); 4 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 1000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 15 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 15 (chỉ nhập dãy bit).",
+      "answers": [
+        "1111"
+      ],
+      "ex": "Dãy có 16 số. 16 số: chọn nửa phải (1); 8 số: chọn nửa phải (1); 4 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 1111.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 16 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "0000"
+      ],
+      "ex": "Dãy có 17 số. 17 số: chọn nửa trái (0); 8 số: chọn nửa trái (0); 4 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 0000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 16 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 8 (chỉ nhập dãy bit).",
+      "answers": [
+        "1000"
+      ],
+      "ex": "Dãy có 17 số. 17 số: chọn nửa phải (1); 9 số: chọn nửa trái (0); 4 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 1000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 16 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 16 (chỉ nhập dãy bit).",
+      "answers": [
+        "11111"
+      ],
+      "ex": "Dãy có 17 số. 17 số: chọn nửa phải (1); 9 số: chọn nửa phải (1); 5 số: chọn nửa phải (1); 3 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 11111.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 17 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 0 (chỉ nhập dãy bit).",
+      "answers": [
+        "0000"
+      ],
+      "ex": "Dãy có 18 số. 18 số: chọn nửa trái (0); 9 số: chọn nửa trái (0); 4 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 0000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 17 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 9 (chỉ nhập dãy bit).",
+      "answers": [
+        "1000"
+      ],
+      "ex": "Dãy có 18 số. 18 số: chọn nửa phải (1); 9 số: chọn nửa trái (0); 4 số: chọn nửa trái (0); 2 số: chọn nửa trái (0). Ghép bit theo thứ tự được 1000.",
+      "kind": "encoding"
+    },
+    {
+      "cat": "Mã hóa chia đôi",
+      "q": "Dãy số từ 0 đến 17 xếp tăng dần. Chia đôi liên tiếp, nếu lẻ thì nửa PHẢI nhiều hơn 1 số. Quy ước trái = 0, phải = 1. Mã hóa số 17 (chỉ nhập dãy bit).",
+      "answers": [
+        "11111"
+      ],
+      "ex": "Dãy có 18 số. 18 số: chọn nửa phải (1); 9 số: chọn nửa phải (1); 5 số: chọn nửa phải (1); 3 số: chọn nửa phải (1); 2 số: chọn nửa phải (1). Ghép bit theo thứ tự được 11111.",
+      "kind": "encoding"
+    }
+  ],
+  "NETWORK_SHORT": [
+    {
+      "cat": "Bài 4 – Mạng máy tính",
+      "q": "Mạng máy tính là gì?",
+      "answers": [
+        "Mạng máy tính là hai hay nhiều máy tính và thiết bị được kết nối để truyền thông tin cho nhau."
+      ],
+      "ex": "Gợi ý trả lời: Mạng máy tính là hai hay nhiều máy tính và thiết bị được kết nối để truyền thông tin cho nhau.",
+      "keywords": [
+        "ket noi",
+        "thiet bi",
+        "thong tin"
+      ],
+      "minMatch": 2
+    },
+    {
+      "cat": "Bài 4 – Mạng máy tính",
+      "q": "Nêu một lợi ích của mạng máy tính.",
+      "answers": [
+        "Giúp trao đổi thông tin hoặc chia sẻ dữ liệu và dùng chung thiết bị."
+      ],
+      "ex": "Gợi ý trả lời: Giúp trao đổi thông tin hoặc chia sẻ dữ liệu và dùng chung thiết bị.",
+      "keywords": [
+        "chia se",
+        "trao doi",
+        "lien lac",
+        "dung chung"
+      ],
+      "minMatch": 1
+    },
+    {
+      "cat": "Bài 4 – Mạng máy tính",
+      "q": "Kể tên ba thành phần cơ bản của mạng máy tính.",
+      "answers": [
+        "Thiết bị đầu cuối; thiết bị kết nối và đường truyền dữ liệu; phần mềm mạng."
+      ],
+      "ex": "Gợi ý trả lời: Thiết bị đầu cuối; thiết bị kết nối và đường truyền dữ liệu; phần mềm mạng.",
+      "keywords": [
+        "dau cuoi",
+        "ket noi",
+        "duong truyen",
+        "phan mem"
+      ],
+      "minMatch": 3
+    },
+    {
+      "cat": "Bài 4 – Mạng máy tính",
+      "q": "Máy tính, điện thoại, máy in thuộc nhóm thiết bị nào của mạng?",
+      "answers": [
+        "Thiết bị đầu cuối."
+      ],
+      "ex": "Gợi ý trả lời: Thiết bị đầu cuối.",
+      "keywords": [
+        "dau cuoi"
+      ],
+      "minMatch": 1
+    },
+    {
+      "cat": "Bài 4 – Mạng máy tính",
+      "q": "Bộ chuyển mạch và bộ định tuyến thuộc nhóm thiết bị nào?",
+      "answers": [
+        "Thiết bị kết nối mạng."
+      ],
+      "ex": "Gợi ý trả lời: Thiết bị kết nối mạng.",
+      "keywords": [
+        "ket noi"
+      ],
+      "minMatch": 1
+    },
+    {
+      "cat": "Bài 4 – Mạng máy tính",
+      "q": "Đường truyền dữ liệu có vai trò gì trong mạng máy tính?",
+      "answers": [
+        "Truyền tín hiệu, dữ liệu giữa các thiết bị được kết nối."
+      ],
+      "ex": "Gợi ý trả lời: Truyền tín hiệu, dữ liệu giữa các thiết bị được kết nối.",
+      "keywords": [
+        "truyen",
+        "du lieu"
+      ],
+      "minMatch": 2
+    },
+    {
+      "cat": "Bài 4 – Mạng máy tính",
+      "q": "Nêu một ví dụ về chia sẻ thiết bị qua mạng.",
+      "answers": [
+        "Nhiều máy tính cùng sử dụng một máy in qua mạng."
+      ],
+      "ex": "Gợi ý trả lời: Nhiều máy tính cùng sử dụng một máy in qua mạng.",
+      "keywords": [
+        "may in"
+      ],
+      "minMatch": 1
+    },
+    {
+      "cat": "Bài 4 – Mạng máy tính",
+      "q": "Kể tên hai thiết bị đầu cuối có thể kết nối mạng.",
+      "answers": [
+        "Ví dụ: máy tính và điện thoại."
+      ],
+      "ex": "Gợi ý trả lời: Ví dụ: máy tính và điện thoại.",
+      "keywords": [
+        "may tinh",
+        "dien thoai"
+      ],
+      "minMatch": 2
+    },
+    {
+      "cat": "Bài 4 – Mạng máy tính",
+      "q": "Phần mềm mạng giúp thực hiện hoạt động gì?",
+      "answers": [
+        "Hỗ trợ điều khiển, trao đổi và truyền dữ liệu qua mạng."
+      ],
+      "ex": "Gợi ý trả lời: Hỗ trợ điều khiển, trao đổi và truyền dữ liệu qua mạng.",
+      "keywords": [
+        "truyen",
+        "du lieu"
+      ],
+      "minMatch": 2
+    },
+    {
+      "cat": "Bài 4 – Mạng máy tính",
+      "q": "Vì sao mạng máy tính giúp ích cho việc học nhóm?",
+      "answers": [
+        "Vì các bạn có thể trao đổi thông tin, chia sẻ tài liệu và cùng sử dụng tài nguyên."
+      ],
+      "ex": "Gợi ý trả lời: Vì các bạn có thể trao đổi thông tin, chia sẻ tài liệu và cùng sử dụng tài nguyên.",
+      "keywords": [
+        "trao doi",
+        "chia se",
+        "tai lieu"
+      ],
+      "minMatch": 2
+    }
+  ]
+}
